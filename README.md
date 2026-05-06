@@ -65,5 +65,3 @@ Diagnostic
 Excel is effective for data analysis and visualization, helping generate
 actionable business insights.
 
-Excel is effective for data analysis and visualization, helping generate
-actionable business insights.
